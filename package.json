@@ -1,0 +1,27 @@
+{
+  "name": "lodash-tools",
+  "version": "0.1.0",
+  "description": "A simple project to create patch for javascript Object ",
+  "main": "diff.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "diff",
+    "patch",
+    "differ"
+  ],
+  "author": "zyq <qqdhsy@126.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "eslint": "^5.7.0",
+    "jest": "^23.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZyqGitHub1/zdiff.git"
+  }
+}
