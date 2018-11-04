@@ -1,6 +1,6 @@
 {
   "name": "zdiff",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A simple project to create patch for javascript Object ",
   "main": "diff.js",
   "scripts": {
