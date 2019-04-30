@@ -17,8 +17,8 @@
     "lodash": "^4.17.11"
   },
   "devDependencies": {
-    "eslint": "^5.8.0",
-    "jest": "^23.6.0"
+    "eslint": "^5.16.0",
+    "jest": "^24.7.1"
   },
   "repository": {
     "type": "git",
